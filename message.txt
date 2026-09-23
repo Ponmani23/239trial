@@ -1,0 +1,1 @@
+this is the trail for checking of git config
